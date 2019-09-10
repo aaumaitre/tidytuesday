@@ -11,3 +11,9 @@ Data and dataset information can be found [here](https://github.com/rfordatascie
 Data and dataset information can be found [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-09-03).
 
 ![](https://github.com/aaumaitre/tidytuesday/blob/master/Moore's%20Law/computers.png?raw=true)
+
+## Week 37/2019: Amusement Park injuries
+
+Data and dataset information can be found [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-09-10).
+
+![](https://github.com/aaumaitre/tidytuesday/blob/master/Amusement%20Parks/rollercoaster.png?raw=true)
