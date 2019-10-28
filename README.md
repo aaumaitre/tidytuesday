@@ -17,3 +17,16 @@ Data and dataset information can be found [here](https://github.com/rfordatascie
 Data and dataset information can be found [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-09-10).
 
 ![](https://github.com/aaumaitre/tidytuesday/blob/master/Amusement%20Parks/rollercoaster.png?raw=true)
+
+## Week 38/2019: National Park Visits
+
+Data and dataset information can be found [here](https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-09-17).
+
+![](https://github.com/aaumaitre/tidytuesday/blob/master/National%20Parks/nparks.png?raw=true)
+
+## Week 39/2019: School Diversity
+
+Data and dataset information can be found [here](https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-09-24).
+
+![](https://github.com/aaumaitre/tidytuesday/blob/master/School%20diversity/div.png?raw=true)
+
