@@ -30,3 +30,8 @@ Data and dataset information can be found [here](https://github.com/rfordatascie
 
 ![](https://github.com/aaumaitre/tidytuesday/blob/master/School%20diversity/div.png?raw=true)
 
+## Week 44/2019: Squirrel Census
+
+Data and dataset information can be found [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-29).
+
+![](https://github.com/aaumaitre/tidytuesday/blob/master/squirrels/sq.png?raw=true)
