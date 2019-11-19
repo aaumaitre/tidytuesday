@@ -35,3 +35,9 @@ Data and dataset information can be found [here](https://github.com/rfordatascie
 Data and dataset information can be found [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-29).
 
 ![](https://github.com/aaumaitre/tidytuesday/blob/master/squirrels/sq.png?raw=true)
+
+## Week 46/2019: CRAN
+
+Data and dataset information can be found [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-11-12).
+
+! [](https://github.com/aaumaitre/tidytuesday/blob/master/Cran%20code/cran.png?raw=true)
